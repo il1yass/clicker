@@ -14,9 +14,9 @@ This Python script automates the process of setting the counter to 2024 on the C
 1. Make sure you have Python installed on your system. If not, you can download it from https://www.python.org/.
 
 2. Install Selenium WebDriver using pip:
-   ```
+   '''
    pip install selenium
-   ```
+   '''
 
 3. Download Chrome WebDriver (chromedriver) compatible with your Chrome browser version from https://sites.google.com/a/chromium.org/chromedriver/downloads.
    - Extract the chromedriver executable from the downloaded archive.
@@ -29,9 +29,9 @@ This Python script automates the process of setting the counter to 2024 on the C
 2. Navigate to the directory containing the script.
 
 3. Execute the script using the following command:
-   ```
+   '''
    python main.py
-   ```
+   '''
 
 4. The script will open a Chrome browser, navigate to the Click Counter website, and automatically set the counter to 2024. It will then print out the time taken to reach the target count.
 
